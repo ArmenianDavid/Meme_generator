@@ -9,6 +9,7 @@ body {
 
 header {
   height: 100px;
+  width: 100%;
   display: flex;
   align-items: center;
   background: #6441A5;  /* fallback for old browsers */
@@ -24,7 +25,7 @@ header > img {
 header > p {
   font-family: VT323, monospace;
   color: whitesmoke;
-  font-size: 50px;
+  font-size: 2rem;
   margin-left: 60px;
 }
 
@@ -36,6 +37,7 @@ header > p {
 
 .meme > img {
   width: 100%;
+  height: auto;
 }
 
 .meme > h2 {
