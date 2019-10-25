@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ArmenianDavid/Meme_generator/static/css/main.c07c816c.chunk.css",
+    "main.js": "/ArmenianDavid/Meme_generator/static/js/main.16b57092.chunk.js",
+    "main.js.map": "/ArmenianDavid/Meme_generator/static/js/main.16b57092.chunk.js.map",
+    "runtime-main.js": "/ArmenianDavid/Meme_generator/static/js/runtime-main.a6f8865f.js",
+    "runtime-main.js.map": "/ArmenianDavid/Meme_generator/static/js/runtime-main.a6f8865f.js.map",
+    "static/js/2.2ebfe3e3.chunk.js": "/ArmenianDavid/Meme_generator/static/js/2.2ebfe3e3.chunk.js",
+    "static/js/2.2ebfe3e3.chunk.js.map": "/ArmenianDavid/Meme_generator/static/js/2.2ebfe3e3.chunk.js.map",
+    "index.html": "/ArmenianDavid/Meme_generator/index.html",
+    "precache-manifest.11d769132860d5b55ad880284c49ad05.js": "/ArmenianDavid/Meme_generator/precache-manifest.11d769132860d5b55ad880284c49ad05.js",
+    "service-worker.js": "/ArmenianDavid/Meme_generator/service-worker.js",
+    "static/css/main.c07c816c.chunk.css.map": "/ArmenianDavid/Meme_generator/static/css/main.c07c816c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6f8865f.js",
+    "static/js/2.2ebfe3e3.chunk.js",
+    "static/css/main.c07c816c.chunk.css",
+    "static/js/main.16b57092.chunk.js"
+  ]
+}
