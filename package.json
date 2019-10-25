@@ -2,7 +2,7 @@
   "name": "memegenerator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ArmenianDavid/Meme_generator",
+  "homepage": "https://ArmenianDavid.github.io/Meme_generator",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
